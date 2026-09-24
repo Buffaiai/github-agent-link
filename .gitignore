@@ -1,0 +1,17 @@
+# 不要提交用户个人 GitHub profile（含仓库地图等用户数据）
+profile/user-github.md
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Env
+.env
+.env.local
+*.pem
